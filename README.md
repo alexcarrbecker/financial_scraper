@@ -36,4 +36,14 @@ Check Saved Data:
   The script creates a folder with the company name.
   
   News data and stock data are saved as CSV files in the folder.
+
   
+Requirements
+
+    Python 3.7 or higher
+    Required Python libraries:
+        requests
+        bs4
+        pandas
+        feedparser
+    A free API key from Finnhub.io
